@@ -5,3 +5,11 @@
 #okta-sign-in .beacon-blank {
   background-color: red;
 }
+
+#okta-sign-in * {
+  color: red;
+}
+
+#okta-sign-in.auth-container .o-form-head {
+  color: red;
+}
